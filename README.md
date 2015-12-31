@@ -1,4 +1,4 @@
 FileSystemAPI
 =============
 
-this is a javascript toolkit which using HTML5 file APIs   for operating files。
+利用file system api 在浏览器沙箱内搭建类文件结构，实现持久化存储
